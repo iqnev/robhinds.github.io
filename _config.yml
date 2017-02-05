@@ -18,12 +18,12 @@ primarylinks:
 skills:
  - Java
  - C/C++
- - Bash
- - PHP
- - JPA
- - SQL
+ - Embedded
+ - Linux
+ - Android
+ - Electronics
  - REST
- - Tech Architecture
+ - IoT Architecture
 
 #Work experience is required
 roles:
