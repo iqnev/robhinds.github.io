@@ -27,11 +27,35 @@ skills:
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: Software Developer
+   start: 2011
+   end:   2012
+   employer: eComDev Studio Ltd.
+   description: Payment Gateway applications
+   
+ - title: CTO
+   start: 2012
+   end:   2013
+   employer: Zine Ltd.
+   description: Start up project- online systems for research.
+   
+ - title: Software Developer
+   start: 2013
+   end:   2015
+   employer: eService Ltd.
+   description: Medical Software Development.
+   
+ - title: Embedded Java Engineer
+   start: 2015
+   end:   2015
+   employer: ProSyst - Bosch Group.
+   description: Embedded Solutions, Smart Home, OSGI, Z-Wave.
+  
+ - title: Software Engineer
    start: 2016
-   end: Ongoing
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
+   end:   Ongoing
+   employer: Software Engineer.
+   description: Platform team.
 
 #Education is required
 education:
