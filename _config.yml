@@ -75,6 +75,9 @@ coursera:
     - title: University of Maryland, Programming Mobile Applications for Android Handheld Systems
       link: https://www.coursera.org/learn/android-programming
       optionalimage: https://www.oneclickroot.com/wp-content/uploads/2013/12/university-of-maryland.png
+    - title: Princeton University, Algorithms: Part1+Part2+Part3
+      link: https://www.coursera.org/learn/algorithms-part1
+      optionalimage: https://s-media-cache-ak0.pinimg.com/236x/23/a7/f7/23a7f74c05d762db7d180e8b2665aef0.jpg  
     - title: Vanderbilt University, Pattern-Oriented Software Architectures for Concurrent and Networked Software
       optionalimage: https://news.vanderbilt.edu/files/schmidt-title1-600x350.png
     - title: University of Washington, The Hardware/Software Interface
