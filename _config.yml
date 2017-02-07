@@ -84,13 +84,21 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - iqnev/parnik
+ - iqnev/VineyardGuard
  - iqnev/SmartDevices
+ - iqnev/SerialportHandler
+ - iqnev/automatic_vacuum_cleaner
+ - iqnev/complementary-filter
+ - iqnev/motion-detection
+ - iqnev/jvmstart
  - iqnev/Echo-Commands
  - iqnev/Pi4JDemos
+ - iqnev/OSGi-basic
+ - iqnev/CustomClassLoader
  - iqnev/ArdTest
- - iqnev/VineyardGuard
  - iqnev/DesignPattern
  - iqnev/deultum
  - iqnev/tangra
- - iqnev/CustomClassLoader
  - iqnev/MPI
+ 
