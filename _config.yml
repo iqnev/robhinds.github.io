@@ -69,16 +69,18 @@ education:
 
 #This section is optional (as is the image link below)
 coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
    courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+    - title: University of Maryland, Programming Mobile Applications for Android Handheld Systems
+      link: https://www.coursera.org/learn/android-programming
+      optionalimage: https://www.oneclickroot.com/wp-content/uploads/2013/12/university-of-maryland.png
+    - title: Princeton University, Algorithms: Part 1 Part 2, Part 3
+      link: https://www.coursera.org/learn/algorithms-part1
+      optionalimage: https://s-media-cache-ak0.pinimg.com/236x/23/a7/f7/23a7f74c05d762db7d180e8b2665aef0.jpg
+    - title: Vanderbilt University, Pattern-Oriented Software Architectures for Concurrent and Networked Software
+      optionalimage: https://news.vanderbilt.edu/files/schmidt-title1-600x350.png
+    - title: University of Washington, The Hardware/Software Interface
+      link: https://courses.cs.washington.edu/courses/cse351/
+      optionalimage: https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/cbd86332a9e7.png
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -92,11 +94,3 @@ github:
  - iqnev/tangra
  - iqnev/CustomClassLoader
  - iqnev/MPI
-
-
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have recently worked with Spring 4, Spring Boot, JPA (Hibernate and EclipseLink) in addition to others.  In my current role Groovy is the primary language used - and I am familiar with many of the languages features and quirks (including writing <a target='_blank' href="https://dzone.com/articles/functional-programming-groovy">Functional Programming style groovy</a>). <br/><br/>
-   <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I've been working IT since school and profesionally since a few years. I am supporter of the open source, Linux and Embedded systems.
